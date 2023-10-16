@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "477167337940",
-    "project_id": "dashboard-9fc20",
-    "storage_bucket": "dashboard-9fc20.appspot.com"
+    "project_number": "1071973874755",
+    "project_id": "dashboard-f3222",
+    "storage_bucket": "dashboard-f3222.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:477167337940:android:75f29faadc702ecbca1641",
-        "android_client_info": {
-          "package_name": "com.actionverite"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC0LYqj4YoG4VX5cGOYLHzNTLUWjl2i72Y"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:477167337940:android:4734c8e09f76ece2ca1641",
+        "mobilesdk_app_id": "1:1071973874755:android:b4c1cffccb33efcd5268f6",
         "android_client_info": {
           "package_name": "com.dareapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
+          "client_id": "1071973874755-e3qbhlggamo57m61t08afcolic01ofjn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0LYqj4YoG4VX5cGOYLHzNTLUWjl2i72Y"
+          "current_key": "AIzaSyD5zOO9abeh5zuTY0bScfludpv6ZmM-I7w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
+              "client_id": "1071973874755-e3qbhlggamo57m61t08afcolic01ofjn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -65,27 +36,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:477167337940:android:dba0b835cfe0c672ca1641",
+        "mobilesdk_app_id": "1:1071973874755:android:76ab2f0560b8dcc95268f6",
         "android_client_info": {
-          "package_name": "com.todolistreact"
+          "package_name": "com.todoapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
+          "client_id": "1071973874755-e3qbhlggamo57m61t08afcolic01ofjn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0LYqj4YoG4VX5cGOYLHzNTLUWjl2i72Y"
+          "current_key": "AIzaSyD5zOO9abeh5zuTY0bScfludpv6ZmM-I7w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "477167337940-s1taugbamfud3sa1prjnv6c17jj642nd.apps.googleusercontent.com",
+              "client_id": "1071973874755-e3qbhlggamo57m61t08afcolic01ofjn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
