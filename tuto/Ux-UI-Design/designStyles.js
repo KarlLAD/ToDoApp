@@ -48,7 +48,7 @@ export default StyleSheet.create({
   },
 
   containerBloc3: {
-    height: 600,
+    height: 300,
     backgroundColor: 'white',
     borderTopRightRadius: 30,
     borderTopLeftRadius: 30,

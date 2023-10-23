@@ -1,14 +1,17 @@
-import {View, Text, Image, FlatList, SafeAreaView} from 'react-native';
+import {View, Text, Image, FlatList, Button} from 'react-native';
 import React from 'react';
 import designStyles from './designStyles';
 import TopCourses from './TopCourses';
 import {courses} from './data';
 import ForYou from './ForYou';
+import {auth} from '@react-native-firebase/auth';
 
 const Design = () => {
   return (
     //   bloc 1
     <View style={designStyles.container}>
+      const deconnection = auth().SignedIn();
+      <Button title="Sign in : Validez !" onPress={() => inscription()} />
       {/* bloc 2 */}
       <View style={designStyles.containerHeader}>
         {/* bloc 2.1 */}
@@ -31,7 +34,6 @@ const Design = () => {
         </View>
       </View>
       {/*     Top courses*/}
-
       <View style={designStyles.containerBloc3}>
         <Text style={designStyles.topCoursesText}>Top Courses</Text>
         <FlatList
@@ -41,7 +43,6 @@ const Design = () => {
         />
         <ForYou />
       </View>
-
       {/* For You */}
     </View>
   );
